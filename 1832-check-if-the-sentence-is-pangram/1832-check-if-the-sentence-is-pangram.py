@@ -5,4 +5,3 @@ class Solution:
             if chr(i) in sentence:
                 cnt += 1
         return cnt == 26
-    
